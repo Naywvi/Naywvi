@@ -94,5 +94,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naywvi&layout=compact"/>
     <br><br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naywvi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&hide_border=true"/>
+    <br>
     <img  width="30%" src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif"/>
 </p>
