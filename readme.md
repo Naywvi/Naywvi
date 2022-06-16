@@ -1,12 +1,5 @@
+<link href="./style.css" rel="stylesheet">
 
-<style>
-.separateur{
-    background-color:white;
-}
-.title{
-text-align:center;
-}
-</style>
 
 <h1 class="title">Nagib L.</h1>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
