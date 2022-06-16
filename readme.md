@@ -7,7 +7,7 @@
 <!-- Gif end-->
 
 <!--#################################################################-->
-<h3 align="center">👉 Who am I ? 🤏</h3>
+<h3 align="center">👉 Who I am  ? 🤏</h3>
 
 <!-- Separator -->
 <p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
@@ -89,6 +89,9 @@
 
 <h3 align="center">📊 Stats 📈</h3>
 <br>
-<p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naywvi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&hide_border=true"/>
+
+<p align = "center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naywvi&layout=compact"/>
+    <br><br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naywvi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&hide_border=true"/>
 </p>
