@@ -51,6 +51,9 @@
     <img  width="25%" height="5%" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>ㅤ
 <!-- Python logo -->
     <img  width="19%" height="5%" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+      <br>  <br>
+<!-- Sql logo -->
+    <img  width="13%" height="5%" src="https://img.shields.io/badge/Sql-0000FF?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 </p>
 
@@ -63,23 +66,21 @@
 <h3 align="center">📯 Other Skils 🕹️</h3>
 <br>
 <p align="center">
-<!-- Html logo -->
+<!-- C4d logo -->
     <img  width="19%" height="5%" src="https://img.shields.io/badge/Cinema 4D-4f26e3?style=for-the-badge&logo=Cinema4d&logoColor=white"/>ㅤ
-<!-- Css logo -->
+<!-- Blender logo -->
     <img  width="17%" height="5%" src="https://img.shields.io/badge/Blender-cc8400?style=for-the-badge&logo=Blender&logoColor=white"/>ㅤ
-<!-- Golang logo -->
+<!-- V logo -->
     <img  width="21%" height="5%" src="https://img.shields.io/badge/Sony Vegas-336BFF?style=for-the-badge&logo=v&logoColor=white"/>ㅤ
-<!-- c++ logo -->
+<!-- Aeft logo -->
     <img  width="31%" height="1%" src="https://img.shields.io/badge/Adobe%20After%20Effect-1E409B?style=for-the-badge&logo=adobe&logoColor=white"/>
     <br>  <br>
-<!-- Swift logo -->
+<!-- Adpht logo -->
     <img  width="31%" height="5%" src="https://img.shields.io/badge/Adobe after effect-1E409B?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/> ㅤ
-<!-- Js logo -->
+<!-- Sketch logo -->
     <img  width="21%" height="5%" src="https://img.shields.io/badge/sketchbook-E68B1D?style=for-the-badge&logo=r&logoColor=white"/>ㅤ
-<!-- Python logo -->
+<!-- ProC logo -->
     <img  width="20%" height="5%" src="https://img.shields.io/badge/ProCreate-9F16AA?style=for-the-badge&logo=r&logoColor=white"/>
-    <br>  <br>
-    <img  width="13%" height="5%" src="https://img.shields.io/badge/Sql-0000FF?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 <!--#################################################################-->
