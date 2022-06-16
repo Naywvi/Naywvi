@@ -20,7 +20,7 @@ discussion.
 </p>
 
 
-<h4 align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" mailto="Nagib.Lakhdari.pro@gmail.com"/>🖱️ </h4>
+<h4 align="center">🖱️</h4>
 
 <!-- Separator -->
 <p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
@@ -29,3 +29,4 @@ discussion.
 <h3 align="center">📋 Langages ✍🏼</h3>
 
 
+[<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](Nagib.Lakhdari.pro@gmail.com)
