@@ -78,7 +78,8 @@
     <img  width="21%" height="5%" src="https://img.shields.io/badge/sketchbook-E68B1D?style=for-the-badge&logo=r&logoColor=white"/>ㅤ
 <!-- Python logo -->
     <img  width="20%" height="5%" src="https://img.shields.io/badge/ProCreate-9F16AA?style=for-the-badge&logo=r&logoColor=white"/>
-
+    <br>  <br>
+    <img  width="13%" height="5%" src="https://img.shields.io/badge/Sql-0000FF?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 <!--#################################################################-->
