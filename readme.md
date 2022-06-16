@@ -1,7 +1,7 @@
 
 <p align="center">
     <kbd>
-        <img width="460" height="400" src="./hi.gif"/>
+        <h1><img width="460" height="400" src="./hi.gif"/></h1>
     </kbd>
 </p>
 <h1 align="center">Nagib L.</h1>
