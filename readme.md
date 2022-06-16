@@ -20,7 +20,7 @@ discussion.
 </p>
 <!-- Send email-->
 <p align = "center">
-<a href="mailto:Nagib.Lakhdari.pro@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-white?style=plastic&logo=gmail"/></a>
+↱ <a href="mailto:Nagib.Lakhdari.pro@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-white?style=plastic&logo=gmail"/></a> ↰
 </p>
 <!-- Send email end-->
 
