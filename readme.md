@@ -73,10 +73,22 @@
     <img  width="31%" height="1%" src="https://img.shields.io/badge/Adobe%20After%20Effect-1E409B?style=for-the-badge&logo=adobe&logoColor=white"/>
     <br>  <br>
 <!-- Swift logo -->
-    <img  width="17%" height="5%" src="https://img.shields.io/badge/Adobe after effect-1E409B?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/> ㅤ
+    <img  width="31%" height="5%" src="https://img.shields.io/badge/Adobe after effect-1E409B?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/> ㅤ
 <!-- Js logo -->
-    <img  width="25%" height="5%" src=""/>ㅤ
+    <img  width="21%" height="5%" src="https://img.shields.io/badge/sketchbook-E68B1D?style=for-the-badge&logo=r&logoColor=white"/>ㅤ
 <!-- Python logo -->
-    <img  width="19%" height="5%" src=""/>
+    <img  width="20%" height="5%" src="https://img.shields.io/badge/ProCreate-9F16AA?style=for-the-badge&logo=r&logoColor=white"/>
 
+</p>
+
+<!--#################################################################-->
+
+<!-- Separator -->
+<p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
+<!-- Separator end-->
+
+<h3 align="center">📊 Stats 📈</h3>
+<br>
+<p align = "center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naywvi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&hide_border=true"/>
 </p>
