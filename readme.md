@@ -18,9 +18,12 @@ Highly ambitious, hardworking and innovative, that's who I am. My name is Nagib,
 Do not hesitate to contact me by email for any collaboration, or simple 
 discussion.
 </p>
+<!-- Send email-->
+<p align = "center">
+<a href="mailto:Nagib.Lakhdari.pro@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-white?style=plastic&logo=gmail"/></a>
+</p>
+<!-- Send email end-->
 
-
-<h4 align="center">🖱️</h4>
 
 <!-- Separator -->
 <p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
@@ -29,4 +32,4 @@ discussion.
 <h3 align="center">📋 Langages ✍🏼</h3>
 
 
-[<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:Nagib.Lakhdari.pro@gmail.com)
+
