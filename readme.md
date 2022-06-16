@@ -7,6 +7,7 @@
 
 <h1 align="center">👉 Who am I ? 🤏</h1>
 
+___
 <p align="center">
 Highly ambitious, hardworking and innovative, that's who I am. My name is Nagib, I'm glad you read my profile.
 </p>
@@ -15,6 +16,8 @@ Highly ambitious, hardworking and innovative, that's who I am. My name is Nagib,
 Do not hesitate to contact me by email for any collaboration, or simple 
 discussion.
 </p>
-___
+
+
 <h4 align="center">🖱️ Nagib.Lakhdari.pro@gmail.com</h4>
+
 ___
