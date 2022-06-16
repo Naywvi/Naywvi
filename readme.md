@@ -34,7 +34,7 @@
 
 <!--#################################################################-->
 <h3 align="center">📋 Langages ✍🏼</h3>
-
+<br>
 <p align="center">
 <!-- Html logo -->
     <img  width="17%" height="5%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>ㅤ
@@ -61,7 +61,7 @@
 <!-- Separator end-->
 
 <h3 align="center">📯 Other Skils 🕹️</h3>
-
+<br>
 <p align="center">
 <!-- Html logo -->
     <img  width="19%" height="5%" src="https://img.shields.io/badge/Cinema 4D-4f26e3?style=for-the-badge&logo=Cinema4d&logoColor=white"/>ㅤ
@@ -87,11 +87,12 @@
 <p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
 <!-- Separator end-->
 
-<h3 align="center">📊 Stats 📈</h3>
+<h3 font-size="10%" align="center">📊 Stats 📈</h3>
 <br>
 
 <p align = "center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naywvi&layout=compact"/>
     <br><br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naywvi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&hide_border=true"/>
+    <img src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif"/>
 </p>
