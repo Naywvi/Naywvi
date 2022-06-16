@@ -35,7 +35,7 @@
 <p align="center">
 <!-- Html logo -->
     <img  width="17%" height="5%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <a opacity="0">"</a>
+        <a opacity="0%">"</a>
 <!-- Css logo -->
     <img  width="15%" height="5%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <a style="opacity:0;">"</a>
