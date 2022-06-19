@@ -76,7 +76,7 @@
     <img  width="31%" height="1%" src="https://img.shields.io/badge/Adobe%20After%20Effect-1E409B?style=for-the-badge&logo=adobe&logoColor=white"/>
     <br>  <br>
 <!-- Adpht logo -->
-    <img  width="31%" height="5%" src="https://img.shields.io/badge/Adobe after effect-1E409B?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/> ㅤ
+    <img  width="31%" height="5%" src="https://img.shields.io/badge/Photoshop-1E409B?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/> ㅤ
 <!-- Sketch logo -->
     <img  width="21%" height="5%" src="https://img.shields.io/badge/sketchbook-E68B1D?style=for-the-badge&logo=r&logoColor=white"/>ㅤ
 <!-- ProC logo -->
