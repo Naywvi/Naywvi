@@ -1,5 +1,5 @@
 <!-- Gif-->
-! [Compteur de vues de profil] https://komarev.com/ghpvc/?Naywvi
+
 <p align="center">
     <kbd>
         <img width="460" height="400" src="./img/hi.gif"/>
