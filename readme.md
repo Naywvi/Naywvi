@@ -1,5 +1,10 @@
 <!-- Gif-->
-
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://openai.com/blog/chatgpt/">
+</iframe>
 <p align="center">
     <kbd>
         <img width="460" height="400" src="./img/hi.gif"/>
