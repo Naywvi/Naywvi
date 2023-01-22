@@ -1,5 +1,13 @@
 <!-- Gif-->
-echo "ok"
+@Manual{R-base,
+  title = {R: A Language and Environment for Statistical
+    Computing},
+  author = {{R Core Team}},
+  organization = {R Foundation for Statistical Computing},
+  address = {Vienna, Austria},
+  year = {2017},
+  url = {https://www.R-project.org/},
+}
 
 <p align="center">
     <kbd>
