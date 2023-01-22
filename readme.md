@@ -1,5 +1,5 @@
 <!-- Gif-->
-:::code language="csharp" source="intro/samples/cu/Controllers/StudentsController.cs" range="2-24,26":::      Cancel changes
+echo "ok"
 
 <p align="center">
     <kbd>
