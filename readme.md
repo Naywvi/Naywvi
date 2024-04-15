@@ -1,10 +1,15 @@
 
 <p align="center">
     <kbd>
-        <img width="auto" height="400" src="./assets/hero.png"/>
+        <img width="auto" height="400" src="/assets/hero.png"/>
     </kbd>
 </p>
 
+<div style="text-align:center;">
+
+[![wakatime](https://wakatime.com/badge/user/aec4e343-df8a-44a1-95a8-5f9d08642a76.svg)](https://wakatime.com/@aec4e343-df8a-44a1-95a8-5f9d08642a76)
+
+</div>
 
 <!--#################################################################-->
 <h3 align="center">Who I am  ? 👨‍💻</h3>
@@ -13,17 +18,8 @@
 Nice to meet you, I'm Naywvi. Full stack developer, security access. Here you will find all of my development projects. I'm rather curious, but above all relentless.
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/aec4e343-df8a-44a1-95a8-5f9d08642a76.svg)](https://wakatime.com/@aec4e343-df8a-44a1-95a8-5f9d08642a76)
-
-<!-- Send email-->
-<!-- <p align = "center">
-    <a href="mailto:Nagib.Lakhdari.pro@gmail.com"><img width="20%" src="https://img.shields.io/badge/Contact%20Me-white?style=plastic&logo=gmail"/></a>
-</p> -->
-<!-- Send email end-->
-
-
 <!-- Separator -->
-<p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
+<p align="center"><img width="960" height="50" src="./assets/separator.png"/></p>
 <!-- Separator end-->
 
 <!--#################################################################-->
@@ -35,7 +31,7 @@ Nice to meet you, I'm Naywvi. Full stack developer, security access. Here you wi
 <!--#################################################################-->
 
 <!-- Separator -->
-<p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
+<p align="center"><img width="960" height="50" src="./assets/separator.png"/></p>
 <!-- Separator end-->
 
 <h3 align="center">Framework 🛵</h3>
@@ -48,7 +44,7 @@ Nice to meet you, I'm Naywvi. Full stack developer, security access. Here you wi
 <!--#################################################################-->
 
 <!-- Separator -->
-<p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
+<p align="center"><img width="960" height="50" src="./assets/separator.png"/></p>
 <!-- Separator end-->
 
 <h3 font-size="10%" align="center">📊 Stats 📈</h3>
@@ -58,11 +54,5 @@ Nice to meet you, I'm Naywvi. Full stack developer, security access. Here you wi
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naywvi&layout=compact"/>
     <br><br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naywvi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&hide_border=true"/>
-    <!-- Separator -->
-    <p align="center"><img width="960" height="50" src="./img/separator.png"/></p>
-    <!-- Separator end-->
     <br> 
-</p>
-<p align="center">
-<img  width="30%" src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif"/>
 </p>
