@@ -6,9 +6,7 @@
 </p>
 
 <div style="text-align:center;">
-
 [![wakatime](https://wakatime.com/badge/user/aec4e343-df8a-44a1-95a8-5f9d08642a76.svg)](https://wakatime.com/@aec4e343-df8a-44a1-95a8-5f9d08642a76)
-
 </div>
 
 <!--#################################################################-->
