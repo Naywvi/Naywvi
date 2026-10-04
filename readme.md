@@ -1,68 +1,89 @@
-<!--#################################################################-->
-<h3 align="center">Who I am ? 👨‍💻</h3>
+<h1 align="center">Naywvi</h1>
 
 <p align="center">
-Nice to meet you, I'm Naywvi. Full stack developer, security expert. Here you will find all of my development projects. I'm rather curious, but above all relentless.
+  Systems & network administrator, full stack developer, security practitioner.<br>
+  I build tools, run infrastructure, and break things on purpose to learn how to defend them.
 </p>
 
-<!-- Separator -->
-<p align="center"><img width="960" height="50" src="./assets/separator.png"/></p>
-<!-- Separator end-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-%C3%8Ele--de--France-1f2328?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SOC-0969da?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Languages-FR%20%7C%20EN-1f2328?style=flat-square" alt="Languages">
+</p>
 
-<!--#################################################################-->
-<h3 align="center">Languages 📢</h3>
-<br>
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## About
 
-<!--#################################################################-->
+I work as an IT administrator and freelance developer. By day I look after Windows and Linux infrastructure across several client sites. By night I write code, run a homelab on Proxmox, and work on detection engineering.
 
-<!-- Separator -->
-<p align="center"><img width="960" height="50" src="./assets/separator.png"/></p>
-<!-- Separator end-->
+I am moving toward a SOC / Blue Team analyst role, so most of my personal projects revolve around detection, log analysis and automation.
 
-<h3 align="center">Frameworks & Technologies 🛵</h3>
+## What I am working on
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- **Mini SOC homelab**: a SIEM, case management and SOAR stack on Proxmox, with detection rules and firewall integration.
+- **Malware analysis sandbox**: a multi-tenant platform written in Go, with Sysmon collection, a Sigma rule engine and risk scoring.
+- **Infrastructure monitoring**: a tool that generates PDF reports to track client IT estates over time.
+- **Satellite R&D**: SDR reception (Meteor-M LRPT, Iridium, QO-100) and a motorised telescope mount.
 
-<h3 align="center">Databases & Tools 📙</h3>
+## Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+**Languages**
 
-<!-- Separator -->
-<p align="center"><img width="960" height="50" src="./assets/separator.png"/></p>
-<!-- Separator end-->
+<p>
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,js,py,cs,c,cpp,php,bash,powershell,swift" alt="Languages">
+</p>
 
-<h3 align="center">Systems & Security 🔐</h3>
+**Web and apps**
 
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,sass,html,css" alt="Web">
+</p>
 
-<h3 align="center">Project Management & DevOps 🚀</h3>
+**Infrastructure and security**
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,proxmox,windows,azure,cisco,vmware,github,githubactions" alt="Infrastructure">
+</p>
 
-<!--#################################################################-->
+**Data**
 
-<!-- Separator -->
-<p align="center"><img width="960" height="50" src="./assets/separator.png"/></p>
-<!-- Separator end-->
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases">
+</p>
 
-<h3 align="center">Certifications 🏆</h3>
+## Selected projects
 
-- **CCNA: Enterprise Networking, Security, and Automation**
-- **CCNA: Introduction to Networks** 
-- **CCNA: Switching, Routing, and Wireless Essentials**
+| Project | What it does | Tech |
+| --- | --- | --- |
+| Malware sandbox | Dynamic analysis with Sysmon telemetry, Sigma matching and scoring | Go |
+| Mini SOC | Detection engineering lab with SIEM, SIRP and SOAR | Proxmox, Docker |
+| Rust companion | Desktop overlay for the Rust+ WebSocket API | C# WPF, Rust |
+| Nayflix | Self-hosted family media streaming | Docker, Linux |
+| Chantiers tool | Internal app that sorts work sites from Excel and a database | TypeScript |
 
-<!-- Separator -->
-<p align="center"><img width="960" height="50" src="./assets/separator.png"/></p>
-<!-- Separator end-->
+<!-- Add links to each repo once public, for example [Malware sandbox](https://github.com/Naywvi/your-repo) -->
 
-<h3 font-size="10%" align="center">📊 Stats 📈</h3>
-<br>
+## Certifications
 
-<p align = "center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naywvi&layout=compact"/>
-    <br><br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naywvi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0&hide_border=true"/>
-    <br> 
+- Cisco CCNA: Introduction to Networks
+- Cisco CCNA: Switching, Routing, and Wireless Essentials
+- Cisco CCNA: Enterprise Networking, Security, and Automation
+
+## GitHub activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naywvi&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+  <img height="170" src="https://streak-stats.demolab.com/?user=Naywvi&hide_border=true&theme=transparent" alt="Streak">
+</p>
+
+## Open source
+
+Reported and diagnosed a re-run bug in the FOG Project installer (Kea DHCP config path, subnet detection), fixed upstream: [FOGProject/fogproject#1747](https://github.com/FOGProject/fogproject/issues/1747).
+
+## Contact
+
+<p>
+  <a href="https://github.com/Naywvi"><img src="https://img.shields.io/badge/GitHub-Naywvi-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="mailto:nagib.lakhdari.pro@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
